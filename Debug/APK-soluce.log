@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\cat\source\repos\APK-soluce\main.cpp(11,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\cat\source\repos\APK-soluce\main.cpp(18,10): warning C4018: '>=' : incompatibilité signed/unsigned
+  APK-soluce.vcxproj -> C:\Users\cat\source\repos\APK-soluce\Debug\APK-soluce.exe
